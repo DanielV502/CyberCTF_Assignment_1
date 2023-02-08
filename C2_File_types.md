@@ -1,4 +1,4 @@
-Challenge: Enhance!
+# Challenge: Enhance!
 
 	•	The challenge request the analysis of an image, the download file was a SVG file.
 	•	The SGV file contains code to draw a white background, black circle with a white dot in the middle.
