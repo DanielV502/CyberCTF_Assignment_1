@@ -1,17 +1,16 @@
-# Challenge: Enhance!
+# Challenge: File types
 
-	• The challenge request the analysis of an image, the download file was a SVG file.
-	• The SGV file contains code to draw a white background, black circle with a white dot in the middle.
+	• The challenge request the analysis of a PDF file with issues when trying to open it.
+	• After analyzing The PDF file, we can confirm that it really was hidden script.
  
-	• The first attempt was just by analyzing the image, select everything, zoom in/out, and I didn´t came with a result more than a little dot in the middle of the image.
-	• The next step was to look at the code in the file, and there was an area defining text on the image. There was a message on the image but with a small font in the center of the image.
-		**The same result could be obtained by just select everything on the web page, copy and paste on a notepad as “p i c o C T F { 3 n h 4 n c 3 d _ a a b 7 2 9 d d }”**
+	• The output of the script is a file named “flag”, obtained by decoding text inside the script.
+	• The file “flag” doesn´t had an extension but we can confirm the file type with de command “File” on the terminal.
+	• Assigning the correct extension to the files, allow us to extract compressed data from the original file “flag.ar” and other files in it.
+	• The decoding process and the extraction of compressed data required the installation of additional tools.
+	• The last file extracted was a plain text with some code that we are able to check with a converter tool.
 
-	• As the name of the Challenge, I changed a little bit of the code to enhance the size of the letters and de display arrangement with the next result:
 
- 
+	• With a HEX to ASCII conversion tool, I was able to read the flag of the challenge:
+>The flag is: “picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_3c79c5ba}”
 
-	• With that change, I was able to read the flag of the challenge:
-The flag is: “picoCTF{3nh4nc3d_aab729dd}”
-
-	• In this exercise, the technic of trying to hide something valuable on an image can be categorized as a Steganography Attack, which can be a form of an Obfuscation Attack.
+	• In this exercise, the technic of trying to hide something valuable on a file can be categorized as an Obfuscation Attack.
