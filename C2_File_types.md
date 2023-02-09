@@ -19,6 +19,6 @@
 
 
 * With a HEX to ASCII conversion tool, I was able to read the flag of the challenge:
-> The flag is: “picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_3c79c5ba}”
+> The flag is: **“picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_3c79c5ba}”**
 
 * In this exercise, the technic of trying to hide something valuable on a file can be categorized as an Obfuscation Attack.
