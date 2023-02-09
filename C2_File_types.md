@@ -1,6 +1,6 @@
 # CyberCTF_Assignment_1
 
-### 2. Challenge: File types
+### 2. Challenge: File types (Hard)
 
 * The challenge requests the analysis of a PDF file with issues when trying to open it.
 * After analyzing The PDF file, we can confirm that it really was hidden script.
