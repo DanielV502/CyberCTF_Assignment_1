@@ -1,6 +1,6 @@
 # CyberCTF_Assignment_1
 
-### Challenge: Enhance!
+### 1. Challenge: Enhance!
 
 * The SGV file contains code to draw a white background, black circle with a white dot in the middle.
 
