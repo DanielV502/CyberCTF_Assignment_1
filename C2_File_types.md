@@ -2,7 +2,7 @@
 
 ### 2. Challenge: File types
 
-* The challenge request the analysis of a PDF file with issues when trying to open it.
+* The challenge requests the analysis of a PDF file with issues when trying to open it.
 * After analyzing The PDF file, we can confirm that it really was hidden script.
 
 ![R1_C2_1](https://user-images.githubusercontent.com/124681007/217531805-ec94141b-52bf-4c11-8e14-135a9307ff91.png)
