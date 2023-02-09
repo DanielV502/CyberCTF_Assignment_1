@@ -5,7 +5,7 @@
 * The challenge request the analysis of a PDF file with issues when trying to open it.
 * After analyzing The PDF file, we can confirm that it really was hidden script.
 
- ![R2_1](https://user-images.githubusercontent.com/124681007/217531805-ec94141b-52bf-4c11-8e14-135a9307ff91.png)
+> ![R2_1](https://user-images.githubusercontent.com/124681007/217531805-ec94141b-52bf-4c11-8e14-135a9307ff91.png)
 
 * The output of the script is a file named “flag”, obtained by decoding text inside the script.
 * The file “flag” doesn´t had an extension but we can confirm the file type with de command “File” on the terminal.
