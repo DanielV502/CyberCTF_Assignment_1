@@ -18,6 +18,6 @@
 ![R1_2](https://user-images.githubusercontent.com/124681007/217520908-57c83795-f9a7-457d-8157-2860eef446c2.png)
 
 * With that change, I was able to read the flag of the challenge:
-> The flag is: “picoCTF{3nh4nc3d_aab729dd}”
+> The flag is: **“picoCTF{3nh4nc3d_aab729dd}”**
 
 * In this exercise, the technic of trying to hide something valuable on an image can be categorized as a Steganography Attack, which can be a form of an Obfuscation Attack.
